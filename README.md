@@ -69,10 +69,7 @@ brain-tumor-cnn/
 ├── reports/
 │   ├── 5502_Midterm_Report_Group_1.pdf           # Final report
 │   ├── 5502_Midterm_Presentation_Group_1.pdf     # Final presentation (PDF)
-│   └── 5502_Midterm_Presentation_Group_1.pptx    # (optional) raw slides
-│
-├── sample_outputs/
-│   └── gradcam_example_1.png                     # Grad-CAM overlays here
+│   └── 5502_Midterm_Presentation_Group_1.pptx
 │
 ├── README.md
 ```
