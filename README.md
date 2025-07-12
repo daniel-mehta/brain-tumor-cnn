@@ -65,6 +65,7 @@ Grad-CAM heatmaps were applied to visualize important regions influencing predic
 brain-tumor-cnn/
 ├── notebook/
 │   └── Midterm_5502_brain_tumor_image.ipynb      # Main pipeline notebook
+|     ├── Midterm_5502_brain_tumor_image.pdf
 │
 ├── reports/
 │   ├── 5502_Midterm_Report_Group_1.pdf           # Final report
